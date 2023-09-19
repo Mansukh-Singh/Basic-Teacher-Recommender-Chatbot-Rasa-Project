@@ -1,0 +1,8 @@
+rasa shell --endpoints endpoints.yml
+rasa train --endpoints endpoints.yml
+rasa train --fixed-model-name teacher
+rasa run --port 5005
+rasa init
+rasa run actions
+rasa run -m models --enable-api --cors "*" --debug
+rasa run --enable-api

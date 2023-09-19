@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ion bell",
+        "subject": "Math",
+        "qualifications": "Masters in Mathematics",
+        "experience": 5,
+        "grade_level": 7
+    },
+    {
+        "name": "Jane Smith",
+        "subject": "Science",
+        "qualifications": "Bachelor's in Biology",
+        "experience": 3,
+        "grade_level": 10
+    },
+    {
+        "name": "Michael Johnson",
+        "subject": "English",
+        "qualifications": "Bachelor's in English Literature",
+        "experience": 6,
+        "grade_level": 8
+    },
+    {
+        "name": "Emily Brown",
+        "subject": "Math",
+        "qualifications": "Ph.D. in Mathematics",
+        "experience": 10,
+        "grade_level": 9
+    },
+    {
+        "name": "Micheal",
+        "subject": "History",
+        "qualifications": "Ph.D. in History",
+        "experience": 13,
+        "grade_level": 5
+    },
+    {
+        "name": "Edward",
+        "subject": "Machine Learning",
+        "qualifications": "Ph.D. in Machine Learning",
+        "experience": 23,
+        "grade_level": 6
+    }
+]
